@@ -2,13 +2,7 @@ This project is a fully responsive Dental Clinic Management System built with Ne
 
 💡 This project was developed collaboratively by a team of junior developers over 6 days using Agile methodology.
 
-👨‍💻 About the Team
-Jenan Faraj: Scrum Master
-Hareth Aljundi: Product Owner
-Faisal Jadallah: QA Specialist
-Heba Al maitah: Developer
-Mahmoud suliman: Developer
-Belal Kahaleh: Developer
+
 👥 User Roles & Responsibilities
 1️⃣ Administrators
 Manage dental clinic operations, staff schedules, patient records, and billing.
@@ -23,6 +17,7 @@ View personal dental records and treatment history.
 Book, reschedule, or cancel appointments.
 View and pay bills online.
 Leave feedback about the services.
+
 🚀 Key Features
 ✅ Authentication & Authorization
 JWT-based secure login system.
@@ -49,6 +44,7 @@ Revenue tracking
 Most requested services
 Data visualizations using charts and graphs.
 ✅ Prescriptions & Dental Reports
+
 Dentists upload prescriptions and exam results securely.
 Patients can view/download their records. hboard:** Analytics, reports, and full system control for admins.
 🛠️ Tech Stack
@@ -58,6 +54,7 @@ Database: MongoDB with Mongoose
 Authentication: JWT
 Project Management: Trello
 Version Control: Git & GitHub
+
 ✅ Deliverables
 🎨 Wireframes & Mockups
 📋 Trello Board
